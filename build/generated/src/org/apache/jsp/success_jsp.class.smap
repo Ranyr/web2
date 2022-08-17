@@ -1,0 +1,20 @@
+SMAP
+success_jsp.java
+JSP
+*S JSP
+*F
++ 0 success.jsp
+success.jsp
++ 1 admin_header.html
+admin_header.html
++ 2 footer1.html
+footer1.html
+*L
+1,9:50
+1#1,55:58
+9#0,3:112
+11:114,2
+12,2:116
+1#2,27:117
+13#0,3:143
+*E
